@@ -1,5 +1,3 @@
-from operator import contains
-from re import A
 import pandas as pd
 #2
 df = pd.read_csv('snooker.txt',encoding='latin2',sep=';')
